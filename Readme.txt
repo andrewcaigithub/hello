@@ -1,1 +1,2 @@
 This is a hot fix
+this is a new feature, complete the feature.
